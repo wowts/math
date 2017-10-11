@@ -1,0 +1,23 @@
+{
+  "name": "@wowts/math",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wowts/math.git"
+  },
+  "author": "Sidoine De Wispelaere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wowts/math/issues"
+  },
+  "homepage": "https://github.com/wowts/math#readme",
+  "devDependencies": {
+    "typescript": "^2.5.3"
+  }
+}
