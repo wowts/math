@@ -25,3 +25,4 @@ exports.max = Math.max;
 exports.min = Math.min;
 exports.pi = Math.PI;
 exports.nan = NaN;
+exports.pow = Math.pow;

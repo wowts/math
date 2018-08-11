@@ -21,3 +21,4 @@ export const max = Math.max;
 export const min = Math.min;
 export const pi = Math.PI;
 export const nan = NaN;
+export const pow = Math.pow;
