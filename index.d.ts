@@ -17,3 +17,4 @@ export declare const max: (...values: number[]) => number;
 export declare const min: (...values: number[]) => number;
 export declare const pi: number;
 export declare const nan: number;
+export declare const pow: (x: number, y: number) => number;
